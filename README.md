@@ -1,6 +1,6 @@
 <!-- IPL Dashboard Preview -->
 <p align="center">
-  <<img src="https://raw.githubusercontent.com/mdsadique/ipl-analysis/main/ipl%20ss.png" width="100%">
+  <img src="https://raw.githubusercontent.com/xadique/IPL-DATA-ANALYSIS/40a78fc6e2414e7f105772b0c481bed5b6b85892/ipl%20ss.png" alt="IPL Dashboard Preview" width="100%">
 </p>
 
 # 🏏 IPL Analysis Dashboard (2008 - 2025)
@@ -11,11 +11,11 @@
 
 ## 🔍 Overview
 
-This repository contains a complete IPL data analysis and visualization solution using **Power BI**. The dashboard includes:
+This repository contains a complete IPL data analysis and visualization solution using **Power BI**. It includes:
 
 - 🏆 Champions & Runner-up analysis  
 - 🧢 Orange Cap & Purple Cap holders  
-- 📈 Total sixes, fours, centuries, and match stats  
+- 📈 Total sixes, fours, and match stats  
 - 📊 Team-wise Points Table  
 - 🎯 Player performance insights  
 
@@ -35,13 +35,13 @@ This repository contains a complete IPL data analysis and visualization solution
 | File Name                                   | Description                      |
 |--------------------------------------------|----------------------------------|
 | `IPL MATCH WINNER DATA ANALYSIS sdq.pbix`   | Power BI dashboard file         |
-| `ipl_dashboard.png`                         | Dashboard preview image         |
+| `ipl ss.png`                               | Dashboard preview image         |
 
 ---
 
 ## 🚀 How to Use
 
-1. Download or clone this repository  
+1. Clone or download this repository  
 2. Open the `.pbix` file in **Power BI Desktop**  
 3. Explore dashboard using filters & slicers  
 
@@ -64,4 +64,4 @@ _Data Analyst_
 
 ## 📌 Note
 
-This project is for learning and portfolio purposes only. IPL and related content belong to their respective owners.
+This project is created for learning and portfolio purposes only. IPL and related content belong to their respective owners.
