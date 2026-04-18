@@ -1,6 +1,6 @@
 <!-- IPL Dashboard Preview -->
 <p align="center">
-  <img src="ipl_dashboard.png" alt="IPL Dashboard Preview" width="100%">
+  <<img src="https://raw.githubusercontent.com/mdsadique/ipl-analysis/main/ipl%20ss.png" width="100%">
 </p>
 
 # 🏏 IPL Analysis Dashboard (2008 - 2025)
